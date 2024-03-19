@@ -1,10 +1,15 @@
 <h1>Hi 👋 I´m Ana</h1> 
 
-<h3>About me</h3>
+<p> Estudiante de la carrera de Desarrollo Web en Institucion Cervantes</p>
 
-- ✨ I’m currently learning "Desarrollo Web"
-- ✨ I’m currently working on a Notary
-- ✨
+<h3>✨Sobre mi</h3>
+
+Actualmente estoy aprendiendo:
+- HTML
+- CSS
+- Javascript
+- C# 
+
 
 📫 How to reach me: 
 
