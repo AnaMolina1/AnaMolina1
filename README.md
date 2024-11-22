@@ -9,7 +9,7 @@ Actualmente estoy aprendiendo:
 - <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
 - <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
 - <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </code>
-
+- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> </code>
 
   
 
